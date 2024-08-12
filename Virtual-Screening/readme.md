@@ -1,9 +1,9 @@
 ### Drug virtual screening using quantum annealers
- ** Virtual screening is performed via Similarity Search**
+ - **Virtual screening is performed via Similarity Search**
  
- ** Molecules are converted to [Molecular graphs](https://en.wikipedia.org/wiki/Molecular_graph), and the problem is converted to finding the maximum common substructure (MCS) between two undirected graphs.**
+ - **Molecules are converted to [Molecular graphs](https://en.wikipedia.org/wiki/Molecular_graph), and the problem is converted to finding the maximum common substructure (MCS) between two undirected graphs.**
  
- ** The MCS problem can be reformulated as a QUBO problem and solved in a quantum annealer.**
+ - **The MCS problem can be reformulated as a QUBO problem and solved in a quantum annealer.**
      
      - [Reference-1](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00195)
      
